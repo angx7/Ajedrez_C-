@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\angel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\acele\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\POE\\Primer_parcial\\Ajedrez_C-\\Ajedrez\\Ajedrez.csproj",
+      "projectUniqueName": "C:\\Users\\acele\\OneDrive\\Documentos\\2do Semestre\\Claudia\\Proyecto\\Ajedrez_C-\\Ajedrez\\Ajedrez.csproj",
       "projectName": "Ajedrez",
-      "projectPath": "E:\\POE\\Primer_parcial\\Ajedrez_C-\\Ajedrez\\Ajedrez.csproj",
-      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "E:\\POE\\Primer_parcial\\Ajedrez_C-\\Ajedrez\\obj\\",
+      "projectPath": "C:\\Users\\acele\\OneDrive\\Documentos\\2do Semestre\\Claudia\\Proyecto\\Ajedrez_C-\\Ajedrez\\Ajedrez.csproj",
+      "packagesPath": "C:\\Users\\acele\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acele\\OneDrive\\Documentos\\2do Semestre\\Claudia\\Proyecto\\Ajedrez_C-\\Ajedrez\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\acele\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
