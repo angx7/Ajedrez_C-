@@ -1,0 +1,15 @@
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.GeneratedMSBuildEditorConfig.editorconfig
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfoInputs.cache
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.AssemblyInfo.cs
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.csproj.CoreCompileInputs.cache
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.sourcelink.json
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\bin\Debug\net8.0\Ajedrez.exe
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\bin\Debug\net8.0\Ajedrez.deps.json
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\bin\Debug\net8.0\Ajedrez.runtimeconfig.json
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\bin\Debug\net8.0\Ajedrez.dll
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\bin\Debug\net8.0\Ajedrez.pdb
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.dll
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\refint\Ajedrez.dll
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.pdb
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\Ajedrez.genruntimeconfig.cache
+E:\POE\Primer_parcial\Ajedrez_C-\Ajedrez\obj\Debug\net8.0\ref\Ajedrez.dll
