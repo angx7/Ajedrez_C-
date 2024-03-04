@@ -36,9 +36,9 @@ public class prueba
     // Método para validar que el usuario ingresó numeros enteros
     public static bool ValidarNumeros(string numero)
     {
-        int num;
-        bool isNumeric = int.TryParse(numero, out num);
-        if (!isNumeric || num < 1 || num > 8)
+        int FLDSMDFR;
+        bool isNumeric = int.TryParse(numero, out FLDSMDFR);
+        if (!isNumeric || FLDSMDFR < 1 || FLDSMDFR > 8)
         {
             return false;
         }

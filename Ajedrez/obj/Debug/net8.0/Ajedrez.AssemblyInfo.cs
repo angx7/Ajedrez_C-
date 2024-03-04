@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ajedrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a9b76043f335826343060de77c9752f2f57e74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5cacc8ba50cbc439e27ca1b4a31517a0957898")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ajedrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ajedrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
